@@ -11,7 +11,7 @@ under test branch
 
 terminal
 
-from test UIasd;agnarjg[-a
+from test UI
 
 dgarjo
 
